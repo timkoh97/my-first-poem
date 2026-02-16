@@ -1,5 +1,5 @@
-This is a Haiku
-I am a musician, now
+This is a haiku
+I was a musician now
 Becoming a dev
 
 I guess being a
